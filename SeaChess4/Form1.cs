@@ -14,7 +14,7 @@ namespace SeaChess4
     {
         public Form1()
         {
-            //Test
+            //Random
             InitializeComponent();
         }
 
